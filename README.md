@@ -16,9 +16,9 @@ https://sumayyah-ahmed.github.io/little-ummah/
 # Status
 Work in progress — more products, improved layout, and additional pages coming soon.
 
-![ Little Ummah Website Screenshot](assets/homepage.png)<br>
-![ Little Ummah Website Screenshot](assets/homepage.png)<br>
-![ Little Ummah Website Screenshot](assets/homepage.png)
+![ Little Ummah Website Screenshot](assets/home.png)<br>
+![ Little Ummah Website Screenshot](assets/gallery.png)
+
 
 
 
